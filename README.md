@@ -1,2 +1,2 @@
 # lichess-analyse
-Get analytics on the games played on lichess.org
+Get analytics of the games played on lichess.org
